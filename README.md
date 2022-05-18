@@ -12,3 +12,6 @@ https://medium.com/@dhanar.santika/installing-wsl-with-gui-using-vcxsrv-6f307e96
 
 4. Installing PyCharm in Ubuntu/linux machines
 https://www.journaldev.com/57363/install-pycharm-on-linux
+
+5. Installing the slack in Ubuntu machine version 20.04
+ https://linuxize.com/post/how-to-install-slack-on-ubuntu-20-04/
