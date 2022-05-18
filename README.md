@@ -9,3 +9,6 @@ https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/
 
 3. Installing the xServer in windows 10 (while using WSL in windows machine)
 https://medium.com/@dhanar.santika/installing-wsl-with-gui-using-vcxsrv-6f307e96fac0
+
+4. Installing PyCharm in Ubuntu/linux machines
+https://www.journaldev.com/57363/install-pycharm-on-linux
