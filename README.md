@@ -15,3 +15,7 @@ https://www.journaldev.com/57363/install-pycharm-on-linux
 
 5. Installing the slack in Ubuntu machine version 20.04
  https://linuxize.com/post/how-to-install-slack-on-ubuntu-20-04/
+ 
+6. Installing the Oceanaudio for audio signal processing task (Ubuntu 20.04)
+https://www.itsmarttricks.com/how-to-install-ocenaudio-free-audio-editor-in-ubuntu-a-best-audacity-alternative-for-linux/
+
