@@ -19,3 +19,5 @@ https://www.journaldev.com/57363/install-pycharm-on-linux
 6. Installing the Oceanaudio for audio signal processing task (Ubuntu 20.04)
 https://www.itsmarttricks.com/how-to-install-ocenaudio-free-audio-editor-in-ubuntu-a-best-audacity-alternative-for-linux/
 
+7. Understanding the Fixed Point Representation, Q factor and addtion
+https://www.allaboutcircuits.com/technical-articles/fixed-point-representation-the-q-format-and-addition-examples/
