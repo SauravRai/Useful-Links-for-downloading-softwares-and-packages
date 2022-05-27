@@ -21,7 +21,10 @@ https://www.itsmarttricks.com/how-to-install-ocenaudio-free-audio-editor-in-ubun
 
 7. Understanding the Fixed Point Representation, Q factor and addtion
 https://www.allaboutcircuits.com/technical-articles/fixed-point-representation-the-q-format-and-addition-examples/
+
   Two's complement represenattion theory and examples
 https://www.allaboutcircuits.com/technical-articles/twos-complement-representation-theory-and-examples/
 
+Fixed Point Multiplication 
+https://www.allaboutcircuits.com/technical-articles/multiplication-examples-using-the-fixed-point-representation/
 
